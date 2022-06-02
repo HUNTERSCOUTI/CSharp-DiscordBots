@@ -1,0 +1,2 @@
+C:\Users\Zilas\source\repos\CSharp-DiscordBots\TheBoisBot\bin\Release\net6.0\publish\TheBoisBot.pdb
+C:\Users\Zilas\source\repos\CSharp-DiscordBots\TheBoisBot\bin\Release\net6.0\publish\TheBoisBot.exe

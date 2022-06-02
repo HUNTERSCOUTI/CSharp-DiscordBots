@@ -25,7 +25,7 @@ public class DiscordBot
     public async Task RunAsync()
     {
         await _client.LoginAsync(TokenType.Bot, "OTc3NjY1OTM3NzU3MDYxMTgz.GS3J-G.TECP2TJ77acC-KJ5WtDBxvuP58u0mxnKGBqofg");
-        await _client.SetGameAsync("Valorant");
+        await _client.SetGameAsync("with your mom");
         await _client.SetStatusAsync(UserStatus.Idle);
         await _client.StartAsync();
 

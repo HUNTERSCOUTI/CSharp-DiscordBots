@@ -210,11 +210,12 @@
       ]
     },
     "Discord.Net.Commands/3.6.1": {
-      "sha512": "SW9grBC85sG9iE5qDbW0x8HliBEMcTy0WHs0jWx9FNYjJfNm8XYgja3zxIJGuYmZ40+v6vvD7RDULhSajGZjHQ==",
+      "sha512": "kK7m571yzSzPd93o+n8Z+TfvX62BT1HtOEZIWXKwXWO8itP/sgqBNExjWK/6DOpkbD6+khc2f3rp+TA0rJD88g==",
       "type": "package",
       "path": "discord.net.commands/3.6.1",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "discord.net.commands.3.6.1.nupkg.sha512",
         "discord.net.commands.nuspec",
         "lib/net461/Discord.Net.Commands.dll",
@@ -230,11 +231,12 @@
       ]
     },
     "Discord.Net.Core/3.6.1": {
-      "sha512": "0zBIqRpumENkMYWRgcttcO7pdrWAzKJSti3XiE0viiR0pbcPdO1QRnf2D0i05omsR1LnK5r930B6Gp02BG/5BA==",
+      "sha512": "ibVjQiWzgqh0GyP/GXE2kv3TA/9ysmmNFG/WmRE7GepQQAXXGxVUO9IMJ8h14EvIXMQ0m0DktMe5DkUnilo3Ag==",
       "type": "package",
       "path": "discord.net.core/3.6.1",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "discord.net.core.3.6.1.nupkg.sha512",
         "discord.net.core.nuspec",
         "lib/net461/Discord.Net.Core.dll",
@@ -250,11 +252,12 @@
       ]
     },
     "Discord.Net.Interactions/3.6.1": {
-      "sha512": "t3fy0Vlk901/9dtVNIo5eK5dzV1LOD+S4szkdJUyUDvULwAWADAChS2A+9B8Ev6kgWSb/O9/x9g54KVK5qTc5Q==",
+      "sha512": "WGOxz6SMUu4WS5b/JdrhlwQletcplBIYqvjFBBDfnqE+uNJqcNGtAdyjLqIILfXGx8aSSSSYZSCeAUa7FZ8Yew==",
       "type": "package",
       "path": "discord.net.interactions/3.6.1",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "discord.net.interactions.3.6.1.nupkg.sha512",
         "discord.net.interactions.nuspec",
         "lib/net461/Discord.Net.Interactions.dll",
@@ -270,11 +273,12 @@
       ]
     },
     "Discord.Net.Rest/3.6.1": {
-      "sha512": "+Le6qcyZ7YnhQ/kXHR8J1geMyxw2dSnAqCHn/92kvb4AknXeretN5XVLu0OakEFwvPCrDupE9vXAUojRSav6wg==",
+      "sha512": "T7RRThIS23roFEJwTL1l7aawjVyn7ZB5yH3tMge0d6TiCzzp4V4FAZ+ArTt19LHRFhPly90v8V3sWqmTMN+5Zg==",
       "type": "package",
       "path": "discord.net.rest/3.6.1",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "discord.net.rest.3.6.1.nupkg.sha512",
         "discord.net.rest.nuspec",
         "lib/net461/Discord.Net.Rest.dll",
@@ -290,11 +294,12 @@
       ]
     },
     "Discord.Net.Webhook/3.6.1": {
-      "sha512": "Q+CtskWJOjvVYXgObRKwFh+wf46822gKCSw0Z+b09en3rm151tRo/VUuEDa8eT4C+s7yvfhX9q1oHIjEQ7wN+g==",
+      "sha512": "xikKHIGAIMz0BzHkaTKb48DNpFjKW8mvJjLJSezJ1xQOu+laHNk/hav4qxVtyZz7HSI/vGTkmlq9hKVhWzpaUA==",
       "type": "package",
       "path": "discord.net.webhook/3.6.1",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "discord.net.webhook.3.6.1.nupkg.sha512",
         "discord.net.webhook.nuspec",
         "lib/net5.0/Discord.Net.Webhook.dll",
@@ -308,11 +313,12 @@
       ]
     },
     "Discord.Net.WebSocket/3.6.1": {
-      "sha512": "PQGhICxgozIW4hB3qBOa5lSjLxPkR1RSUuOe45mq1YnkbkThi1odSrh8xRuM9aEtZ1U4etV1aosSCyIq6eF4Rg==",
+      "sha512": "hF22Xy7URlVEDQZ69INOgzPvFUsIDfd+r6U+1yF9HWdBn3d4THnvAAhkv1TraSx/T/MKS7g+jvk/HZ3mh5S3aw==",
       "type": "package",
       "path": "discord.net.websocket/3.6.1",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "discord.net.websocket.3.6.1.nupkg.sha512",
         "discord.net.websocket.nuspec",
         "lib/net461/Discord.Net.WebSocket.dll",
@@ -585,19 +591,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ZilasJ\\.nuget\\packages\\": {}
+    "C:\\Users\\Zilas\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ZilasJ\\source\\repos\\CSharp-DiscordBots\\TheBoisBot\\TheBoisBot.csproj",
+      "projectUniqueName": "C:\\Users\\Zilas\\Source\\Repos\\CSharp-DiscordBots\\TheBoisBot\\TheBoisBot.csproj",
       "projectName": "TheBoisBot",
-      "projectPath": "C:\\Users\\ZilasJ\\source\\repos\\CSharp-DiscordBots\\TheBoisBot\\TheBoisBot.csproj",
-      "packagesPath": "C:\\Users\\ZilasJ\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ZilasJ\\source\\repos\\CSharp-DiscordBots\\TheBoisBot\\obj\\",
+      "projectPath": "C:\\Users\\Zilas\\Source\\Repos\\CSharp-DiscordBots\\TheBoisBot\\TheBoisBot.csproj",
+      "packagesPath": "C:\\Users\\Zilas\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Zilas\\Source\\Repos\\CSharp-DiscordBots\\TheBoisBot\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\ZilasJ\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Zilas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -605,8 +616,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://www.myget.org/F/discord-net/api/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
@@ -660,7 +670,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
       }
     }
   }

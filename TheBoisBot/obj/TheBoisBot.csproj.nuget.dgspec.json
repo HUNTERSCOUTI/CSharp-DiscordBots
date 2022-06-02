@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ZilasJ\\source\\repos\\CSharp-DiscordBots\\TheBoisBot\\TheBoisBot.csproj": {}
+    "C:\\Users\\Zilas\\source\\repos\\CSharp-DiscordBots\\TheBoisBot\\TheBoisBot.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ZilasJ\\source\\repos\\CSharp-DiscordBots\\TheBoisBot\\TheBoisBot.csproj": {
+    "C:\\Users\\Zilas\\source\\repos\\CSharp-DiscordBots\\TheBoisBot\\TheBoisBot.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ZilasJ\\source\\repos\\CSharp-DiscordBots\\TheBoisBot\\TheBoisBot.csproj",
+        "projectUniqueName": "C:\\Users\\Zilas\\source\\repos\\CSharp-DiscordBots\\TheBoisBot\\TheBoisBot.csproj",
         "projectName": "TheBoisBot",
-        "projectPath": "C:\\Users\\ZilasJ\\source\\repos\\CSharp-DiscordBots\\TheBoisBot\\TheBoisBot.csproj",
-        "packagesPath": "C:\\Users\\ZilasJ\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ZilasJ\\source\\repos\\CSharp-DiscordBots\\TheBoisBot\\obj\\",
+        "projectPath": "C:\\Users\\Zilas\\source\\repos\\CSharp-DiscordBots\\TheBoisBot\\TheBoisBot.csproj",
+        "packagesPath": "C:\\Users\\Zilas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Zilas\\source\\repos\\CSharp-DiscordBots\\TheBoisBot\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\ZilasJ\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Zilas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,8 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://www.myget.org/F/discord-net/api/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
@@ -77,7 +80,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }
